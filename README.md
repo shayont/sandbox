@@ -1,1 +1,1 @@
-# sandbox
+print('hello world')
